@@ -1,0 +1,1 @@
+dimensiones = (10,10)
