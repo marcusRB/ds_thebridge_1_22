@@ -1,5 +1,8 @@
 # Bootcamp - Data Science - Enero 2022 - The Bridge
 
+
+![The Bridge](./1-Ramp_up/Presentaciones/img/TheBridge_logo.png)
+
 ----------
 
 ### **Foldername**: ds_thebridge_1_22
